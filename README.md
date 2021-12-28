@@ -6,7 +6,7 @@ The purpose of this project is to obtain weather data through API's using Python
 
 Use of api_keys to connect to sites
 
-### Deliverable 1: Deliverable 1: Retrieve Weather Data
+### Deliverable 1: Retrieve Weather Data
 - Use of numpy library to generate a set of 2000 latitude/longitude pairs;
 - Use of citipy library to retrieve city information based on latitude/longitude;
 - Use of pandas library to create a data frame to store city information: City, Country, Latitude, Longitude, Maximum Temperature, Humidity, Cloudiness, Wind Speed and General Weather Description;
